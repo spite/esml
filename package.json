@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  },
+  "name": "esml",
+  "version": "1.0.0",
+  "description": "ES Module Loader",
+  "main": "index.js",
+  "bin": {
+    "esml": "./index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaume Sanchez",
+  "license": "MIT"
+}
